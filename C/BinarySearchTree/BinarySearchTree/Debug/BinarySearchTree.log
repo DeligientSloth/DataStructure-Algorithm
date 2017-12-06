@@ -1,0 +1,8 @@
+﻿  BinarySearchTree.cpp
+d:\documents\datastructure-algorithm\c\binarysearchtree\binarysearchtree\binarysearchtree.cpp(19): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“T *”
+  d:\documents\datastructure-algorithm\c\binarysearchtree\binarysearchtree\binarysearchtree.cpp(19): note: 此参数由转换说明符使用
+d:\documents\datastructure-algorithm\c\binarysearchtree\binarysearchtree\binarysearchtree.cpp(19): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  d:\documents\datastructure-algorithm\c\binarysearchtree\binarysearchtree\binarysearchtree.cpp(19): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  d:\documents\datastructure-algorithm\c\binarysearchtree\binarysearchtree\binarysearchtree.cpp(19): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  d:\documents\datastructure-algorithm\c\binarysearchtree\binarysearchtree\binarysearchtree.cpp(19): note: 此参数用作缓冲区大小
+  BinarySearchTree.vcxproj -> D:\documents\DataStructure-Algorithm\C\BinarySearchTree\Debug\BinarySearchTree.exe

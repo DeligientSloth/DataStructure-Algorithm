@@ -1,0 +1,4 @@
+﻿  二叉树的重建.cpp
+d:\documents\datastructure-algorithm\编程之美\二叉树的重建\二叉树的重建\二叉树的重建.cpp(38): warning C4715: “isValid”: 不是所有的控件路径都返回值
+d:\documents\datastructure-algorithm\编程之美\二叉树的重建\二叉树的重建\二叉树的重建.cpp(122): warning C4715: “Solution::VerifySquenceOfBST”: 不是所有的控件路径都返回值
+  二叉树的重建.vcxproj -> D:\documents\DataStructure-Algorithm\编程之美\二叉树的重建\Debug\二叉树的重建.exe

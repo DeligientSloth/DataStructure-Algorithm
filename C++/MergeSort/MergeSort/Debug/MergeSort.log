@@ -1,0 +1,17 @@
+﻿  MergeSort.cpp
+d:\documents\datastructure-algorithm\c++\mergesort\mergesort\mergesort.cpp(17): warning C4018: “<=”: 有符号/无符号不匹配
+  d:\documents\datastructure-algorithm\c++\mergesort\mergesort\mergesort.cpp(47): note: 参见对正在编译的函数 模板 实例化“void Merge<T>(T *,int,int,int)”的引用
+          with
+          [
+              T=int
+          ]
+  d:\documents\datastructure-algorithm\c++\mergesort\mergesort\mergesort.cpp(64): note: 参见对正在编译的函数 模板 实例化“void Merge_Pass<int>(T *,int,int)”的引用
+          with
+          [
+              T=int
+          ]
+  d:\documents\datastructure-algorithm\c++\mergesort\mergesort\mergesort.cpp(73): note: 参见对正在编译的函数 模板 实例化“void Merge_Sort_Recurse<int>(int *,int)”的引用
+d:\documents\datastructure-algorithm\c++\mergesort\mergesort\mergesort.cpp(19): warning C4018: “<=”: 有符号/无符号不匹配
+d:\documents\datastructure-algorithm\c++\mergesort\mergesort\mergesort.cpp(20): warning C4018: “<=”: 有符号/无符号不匹配
+d:\documents\datastructure-algorithm\c++\mergesort\mergesort\mergesort.cpp(22): warning C4018: “<=”: 有符号/无符号不匹配
+  MergeSort.vcxproj -> D:\documents\DataStructure-Algorithm\C++\MergeSort\Debug\MergeSort.exe

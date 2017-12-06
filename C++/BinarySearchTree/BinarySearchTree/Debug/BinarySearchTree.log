@@ -1,0 +1,3 @@
+﻿  BinarySearchTree.cpp
+d:\documents\datastructure-algorithm\c++\binarysearchtree\binarysearchtree\binarysearchtree.cpp(95): warning C4715: “BiTree<int>::deleteNode”: 不是所有的控件路径都返回值
+  BinarySearchTree.vcxproj -> D:\documents\DataStructure-Algorithm\C++\BinarySearchTree\Debug\BinarySearchTree.exe
