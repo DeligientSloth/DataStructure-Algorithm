@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  桶排序.cpp
+d:\documents\datastructure-algorithm\c++\桶排序\桶排序\桶排序.cpp(18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  桶排序.vcxproj -> D:\documents\DataStructure-Algorithm\C++\桶排序\Debug\桶排序.exe
