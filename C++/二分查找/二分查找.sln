@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二分查找", "二分查找\二分查找.vcxproj", "{564149C0-C482-40B1-97E1-615AF2BC818E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564149C0-C482-40B1-97E1-615AF2BC818E}.Debug|x64.ActiveCfg = Debug|x64
+		{564149C0-C482-40B1-97E1-615AF2BC818E}.Debug|x64.Build.0 = Debug|x64
+		{564149C0-C482-40B1-97E1-615AF2BC818E}.Debug|x86.ActiveCfg = Debug|Win32
+		{564149C0-C482-40B1-97E1-615AF2BC818E}.Debug|x86.Build.0 = Debug|Win32
+		{564149C0-C482-40B1-97E1-615AF2BC818E}.Release|x64.ActiveCfg = Release|x64
+		{564149C0-C482-40B1-97E1-615AF2BC818E}.Release|x64.Build.0 = Release|x64
+		{564149C0-C482-40B1-97E1-615AF2BC818E}.Release|x86.ActiveCfg = Release|Win32
+		{564149C0-C482-40B1-97E1-615AF2BC818E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DFFE2E3-9241-4B3F-BBCD-79B8505FB98F}
+	EndGlobalSection
+EndGlobal
