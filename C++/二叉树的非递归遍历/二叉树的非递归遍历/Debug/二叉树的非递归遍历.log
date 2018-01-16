@@ -1,4 +1,2 @@
 ﻿  二叉树的非递归遍历.cpp
-d:\documents\datastructure-algorithm\c++\二叉树的非递归遍历\二叉树的非递归遍历\二叉树的非递归遍历.cpp(21): warning C4018: “>=”: 有符号/无符号不匹配
-  d:\documents\datastructure-algorithm\c++\二叉树的非递归遍历\二叉树的非递归遍历\二叉树的非递归遍历.cpp(90): note: 参见对正在编译的函数 模板 实例化“BiTNode<char> *createBiTree<char>(std::vector<char,std::allocator<char>> &,int &)”的引用
-  二叉树的非递归遍历.vcxproj -> D:\documents\DataStructure-Algorithm\C++\二叉树的非递归遍历\Debug\二叉树的非递归遍历.exe
+  二叉树的非递归遍历.vcxproj -> D:\documents\刷算法题拿offer\DataStructure-Algorithm\C++\二叉树的非递归遍历\Debug\二叉树的非递归遍历.exe
